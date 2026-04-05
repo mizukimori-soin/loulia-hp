@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx vercel:*)",
+      "WebFetch(domain:filonnail.com)",
+      "WebSearch",
+      "WebFetch(domain:webcache.googleusercontent.com)",
+      "WebFetch(domain:job-medley.com)",
+      "WebFetch(domain:relax-job.com)",
+      "WebFetch(domain:web.archive.org)",
+      "WebFetch(domain:storage.googleapis.com)",
+      "WebFetch(domain:api.studiodesignapp.com)",
+      "Bash(git:*)"
+    ]
+  }
+}
