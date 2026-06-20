@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 464 136">
+<g fill="#1a1a1a" stroke="#1a1a1a" stroke-linecap="butt" stroke-linejoin="miter">
+
+<!-- ===== L1 ===== -->
+<!-- Thick vertical stem -->
+<rect x="11" y="12" width="8" height="116" stroke="none"/>
+<!-- Top serif (thin hairline) -->
+<line x1="7" y1="12" x2="23" y2="12" stroke-width="1.5" fill="none"/>
+<!-- Bottom serif (thin hairline) -->
+<line x1="7" y1="128" x2="23" y2="128" stroke-width="1.5" fill="none"/>
+<!-- Foot extending right (thin) -->
+<line x1="19" y1="127.5" x2="73" y2="127.5" stroke-width="1.5" fill="none"/>
+<!-- Decorative dot -->
+<circle cx="27" cy="5" r="1.5" stroke="none"/>
+
+<!-- ===== O ===== -->
+<!-- Thin circle -->
+<ellipse cx="131" cy="68" rx="57" ry="62" fill="none" stroke-width="1.5"/>
+<!-- Center 4-point star (sharp, delicate diamond) -->
+<path d="M131,60 L132.5,66.5 L139,68 L132.5,69.5 L131,76 L129.5,69.5 L123,68 L129.5,66.5 Z" stroke="none"/>
+
+<!-- ===== U ===== -->
+<!-- Left thick stem -->
+<rect x="197" y="10" width="7" height="104" stroke="none"/>
+<!-- Left top serif -->
+<line x1="193" y1="10" x2="208" y2="10" stroke-width="1.5" fill="none"/>
+<!-- Right thick stem -->
+<rect x="256" y="10" width="6" height="104" stroke="none"/>
+<!-- Right top serif -->
+<line x1="252" y1="10" x2="266" y2="10" stroke-width="1.5" fill="none"/>
+<!-- Bottom curve connecting stems (thin) -->
+<path d="M200,114 C202,126 214,129 228,129 C242,129 256,126 259,114" fill="none" stroke-width="1.5"/>
+
+<!-- ===== L2 ===== -->
+<!-- Thick vertical stem -->
+<rect x="267" y="12" width="8" height="116" stroke="none"/>
+<!-- Top serif -->
+<line x1="263" y1="12" x2="279" y2="12" stroke-width="1.5" fill="none"/>
+<!-- Bottom serif -->
+<line x1="263" y1="128" x2="279" y2="128" stroke-width="1.5" fill="none"/>
+<!-- Foot extending right -->
+<line x1="275" y1="127.5" x2="332" y2="127.5" stroke-width="1.5" fill="none"/>
+<!-- Decorative dot -->
+<circle cx="283" cy="5" r="1.5" stroke="none"/>
+
+<!-- ===== I ===== -->
+<!-- Thick vertical stem -->
+<rect x="345" y="12" width="8" height="116" stroke="none"/>
+<!-- Top serif -->
+<line x1="341" y1="12" x2="357" y2="12" stroke-width="1.5" fill="none"/>
+<!-- Bottom serif -->
+<line x1="341" y1="128" x2="357" y2="128" stroke-width="1.5" fill="none"/>
+
+<!-- Decorative dot -->
+<circle cx="361" cy="5" r="1.5" stroke="none"/>
+
+<!-- ===== A ===== -->
+<!-- Left leg: more pronounced outward curve -->
+<path d="M395,10 C382,38 370,78 371,100 C372,117 379,125 388,127" fill="none" stroke-width="1.5"/>
+<!-- Right leg: diagonal from apex to lower-right -->
+<path d="M395,10 C402,25 430,85 449,127" fill="none" stroke-width="1.5"/>
+<!-- Left baseline serif -->
+<line x1="382" y1="127" x2="393" y2="127" stroke-width="1.5" fill="none"/>
+<!-- Right baseline serif -->
+<line x1="445" y1="127" x2="456" y2="127" stroke-width="1.5" fill="none"/>
+<!-- Teardrop counter: elongated leaf shape, bulging to right -->
+<path d="M395,16 C391,26 390,42 395,54 C403,56 411,44 409,32 C407,22 401,17 395,16 Z" fill="none" stroke-width="1.5"/>
+
+</g>
+</svg>

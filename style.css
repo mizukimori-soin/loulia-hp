@@ -99,19 +99,15 @@ button {
   padding: 8px 24px;
 }
 
-/* ロゴ: 画像の中心テキストを大きく表示 */
+/* ロゴ */
 .header__logo {
   display: block;
-  height: 80px;
-  overflow: hidden;
+  height: 40px;
 }
 
 .header__logo img {
-  height: 840px;
+  height: 100%;
   width: auto;
-  object-fit: contain;
-  mix-blend-mode: multiply;
-  margin-top: -380px;
 }
 
 /* ---------- Hero ---------- */
@@ -482,12 +478,7 @@ button {
   }
 
   .header__logo {
-    height: 56px;
-  }
-
-  .header__logo img {
-    height: 640px;
-    margin-top: -292px;
+    height: 30px;
   }
 
   .hero {
